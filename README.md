@@ -1,4 +1,4 @@
-# Verified MATLAB Code for [Global stability of Wright-type equations with negative Schwarzian]
+# Verified MATLAB Code for the paper: Global stability of Wright-type equations with negative Schwarzian
 
 This repository contains MATLAB scripts developed to support the results presented in our mathematical paper. The computations use **rigorous numerics** 
 to confirm theoretical findings and are implemented using **[INTLAB](https://www.ti3.tu-harburg.de/rump/intlab/)**, a toolbox for verified numerical computations in MATLAB.
