@@ -26,7 +26,12 @@ This code is made publicly available for scientific and educational use.
 You may reuse or modify it in line with the accompanying license (if specified).
 
 ## 📖 Citation
-If you use this code in your research, please cite our paper:
+
+If you use INTLAB in publications, please include the reference:
+S. M. Rump: INTLAB – INTerval LABoratory. In: Tibor Csendes (ed.), 
+Developments in Reliable Computing, pp. 77–104, Kluwer Academic Publishers, Dordrecht, 1999.
+
+If you use this code in your research, please cite our paper.
 
 To start using INTLAB in your MATLAB session:
 ```matlab
